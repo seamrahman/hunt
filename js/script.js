@@ -1,4 +1,9 @@
 
+// wow js start//
+new WOW().init();
+
+// wow js start//
+
 //====== fixed navbar part start =======//
 
 $(window).scroll(function(){
